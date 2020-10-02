@@ -3,7 +3,11 @@ Python.org sitesinden 3.x.x bir sürüm indirebilirsiniz.
 
 
 
+
+
 +Oyun nasıl açılır?
+
+
 -Rar dosyasını indirdikten sonra klasörü masaüstüne atmalısınız. Ardından savas.py'ın olduğu klasöre girmelisiniz.
  Fakat bundan önce bazı modülleri yüklemeniz gerekir.
 
@@ -12,8 +16,13 @@ Python.org sitesinden 3.x.x bir sürüm indirebilirsiniz.
 Gerekli modüller:
 time,
 random,
-keyboard,
+keyboard
+
+
+
 +Bunlar nasıl indirilir?
+
+
 -Cevabı basit. cmd'ye pip install "ModülAdı" yazarak modülleri tek tek indirebilirsiniz.
 
 
